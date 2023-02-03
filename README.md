@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=30&pause=1000&color=D7FF9D&width=435&lines=Hello+I'm+Jiyoung+%F0%9F%97%AF)](https://git.io/typing-svg)
 ### 💻 tech stacks
-[![My Skills](https://skillicons.dev/icons?i=kotlin,flutter,java,python,mysql&perline=5)](https://skillicons.dev)
-[![Jiyoung's github stats](https://github-readme-stats.vercel.app/api?username=Cat-JiYoung&count_private=true&custom_title=Jiyoung's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,flutter,java,python,mysql&perline=5)](https://skillicons.dev) <br><br>
+[![Jiyoung's github stats](https://github-readme-stats.vercel.app/api?username=Cat-JiYoung&count_private=true&custom_title=Jiyoung's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 [//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Cat-JiYoung&layout=compact&hide=CMake,Swift,html,css,C,Objective-C&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
