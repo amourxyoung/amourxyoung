@@ -1,8 +1,4 @@
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCat-JiYoung&count_bg=%23FF9F9F&title_bg=%23B6E2A1&icon=caterpillar.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=30&pause=1000&color=D7FF9D&width=435&lines=Hello+I'm+Jiyoung+%F0%9F%97%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=30&pause=1000&color=D7FF9D&width=435&lines=Hello+I'm+Jiyoung+%F0%9F%97%AF)](https://git.io/typing-svg)
 
 ## ✉️ Contact
 
@@ -28,7 +24,7 @@ Email : crayon0820@naver.com
 
 **2023.09-2024.01**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;34기 DO SOPT 안드로이드 파트 수료
 
-**2023.05-2024.05**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[주(ZOOC)](https://www.youtube.com/watch?v=upGLXv88onU) 안드로이드 개발자
+**2023.05-2024.05**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(주)ZOOC](https://www.youtube.com/watch?v=upGLXv88onU) 안드로이드 개발자
 
 
 ## 🛠️ Skills
