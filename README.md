@@ -22,20 +22,22 @@ Email : crayon0820@naver.com
 
 **2022.03-2023.08**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;32기 GO SOPT 안드로이드 파트 수료
 
-**2023.09-2024.01**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;34기 DO SOPT 안드로이드 파트 수료
+**2023.09-2024.01**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;33기 DO SOPT 안드로이드 파트 수료
 
 **2023.05-2024.05**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(주)ZOOC](https://www.youtube.com/watch?v=upGLXv88onU) 안드로이드 개발자
 
 
 ## 🛠️ Skills
 <img src="https://img.shields.io/badge/Android-3DFC84?style=flat-square&logo=Android&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/Kotlin-3DFC84?style=flat-square&logo=Kotlin&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/Java-3DFC84?style=flat-square&logo=Java&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/Python-3DFC84?style=flat-square&logo=Python&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/MySQL-3DFC84?style=flat-square&logo=MySQL&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-3dFF84?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/HTML5-3DFC84?style=flat-square&logo=HTML5&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/CSS3-3DFC84?style=flat-square&logo=CSS3&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Flutter-50BFF0?style=flat-square&logo=Flutter&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Java-DD3F1B?style=flat-square&logo=Java&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Python-3D74A1?style=flat-square&logo=Python&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-E08E12?style=flat-square&logo=MySQL&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F4C51C?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/HTML5-D8411F?style=flat-square&logo=HTML5&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-2A68B1?style=flat-square&logo=CSS3&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Vue.js-1DC384?style=flat-square&logo=Vue.js&logoColor=black"/>&nbsp;
 
 <br>
 
